@@ -1,0 +1,21 @@
+{
+    "name": "liamthegrey/avifors",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Liam",
+            "email": "liam@brewbird.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "repositories": [
+        {
+            "type":"composer",
+            "url":"http://wpackagist.org"
+        }
+    ],
+    "version": "0.3.1",
+    "minimum-stability": "stable"
+}
