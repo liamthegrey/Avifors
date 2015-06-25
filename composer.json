@@ -1,6 +1,6 @@
 {
     "name": "liamthegrey/avifors",
-    "type": "wordpress-plugin",
+    "type": "library",
     "authors": [
         {
             "name": "Liam",
